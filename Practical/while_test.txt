@@ -1,0 +1,6 @@
+VOID MAIN(){
+	while(3*(2+3)){
+		variable1 = 1;
+		variable2 = 2;
+	};
+}

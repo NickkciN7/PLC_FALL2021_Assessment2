@@ -1,0 +1,14 @@
+VOID MAIN(){
+   switch(dude){
+       case 1:
+          variable1 = 1;
+          break;
+       case 2:
+          variable2 = 2;
+          variable3 = 3;
+          break;
+       default:
+          variable4 = 4;
+          variable5 = 6;
+   };
+}

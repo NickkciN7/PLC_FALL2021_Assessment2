@@ -1,0 +1,5 @@
+VOID MAIN(){
+   for(int count : array1){
+        variable3 = 3;  
+   }; 
+}

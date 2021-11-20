@@ -1,0 +1,9 @@
+VOID MAIN(){
+	if(3+2){
+		variable1 = 1;
+		while(3+2*(variable1/3)){
+			variable2 = 2;
+		};
+	};
+	return 5+variable2;
+}

@@ -1,0 +1,4 @@
+VOID MAIN(){
+   dude = 4;
+   dude1 = 4*3*(2/3);
+}

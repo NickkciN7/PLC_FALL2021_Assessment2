@@ -1,0 +1,6 @@
+VOID MAIN(){
+	if(3*(5/4)){
+		variable1 = 1;
+		variable2 = 2;
+	};
+}
